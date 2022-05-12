@@ -1,0 +1,18 @@
+{
+    "name": "es.mbofias.refvariables",
+    "version": "1.0.0",
+    "displayName": "Referenced Variables",
+    "description": "A basic unity package to include referenced variables to a project",
+    "unity": "2021.3",
+    "unityRelease": "2f1",
+    "dependencies": {
+   },
+   "keywords": [
+    "reference", "variable", "scriptable", "object", "editor"
+       ],
+    "author": {
+      "name": "Marc Bofias",
+      "email": "marc.bofias@gmail.com",
+      "url": "https://github.com/Mbofias/refvariables"
+    }
+  }
