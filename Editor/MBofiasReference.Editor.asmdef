@@ -1,0 +1,16 @@
+{
+    "name": "MBofiasReference.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f0a01145ce3acbf4cbfbe7aa8d71b7d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
